@@ -8,7 +8,5 @@ import com.heliohdd.workshopmongo.domain.User;
 @Repository
 public interface UserRepository extends MongoRepository<User, String> {
 	
-	
-	
 
 }
